@@ -1,6 +1,6 @@
 Package.describe({
   name: 'praneybehl:react-dropzone',
-  version: '3,0.0',
+  version: '3.0.0',
   summary: 'Simple HTML5 drag-drop zone for ReactJs packaged for Meteor',
   git: 'https://github.com/praneybehl/meteor-react-dropzone',
   documentation: 'README.md'
