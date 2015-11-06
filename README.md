@@ -54,8 +54,6 @@ To trigger the dropzone manually (open the file prompt), call the component's `o
 
 ```jsx
 /** @jsx React.DOM */
-var React = require('react');
-var Dropzone = require('react-dropzone');
 
 var DropzoneDemo = React.createClass({
     getInitialState: function () {
